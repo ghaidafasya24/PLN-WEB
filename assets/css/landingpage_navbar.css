@@ -1,0 +1,11 @@
+.body
+
+.bg-ungu{
+    background-color: rgb(18, 6, 182) !important;
+    transition: 0.3s;
+}
+
+.bg-ungu:hover {
+    background-color: rgb(2, 2, 95) !important;
+}
+
